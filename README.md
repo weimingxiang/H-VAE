@@ -3,7 +3,7 @@ H-VAE: A Hybrid Variational AutoEncoder with Data Augumentation in Predicting CR
 
 # Qiuck Start
 
-## 0. Requirements
+## Requirements
 
 - python==3.8
 - torch
@@ -12,6 +12,11 @@ H-VAE: A Hybrid Variational AutoEncoder with Data Augumentation in Predicting CR
 - ray
 - numpy
 
-## 1. Run
+## Environment Easy Installation
+
+cd H-VAE
+conda env create -f environment.yml
+
+## Running
 
 python run.py
