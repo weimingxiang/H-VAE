@@ -14,8 +14,8 @@ H-VAE: A Hybrid Variational AutoEncoder with Data Augumentation in Predicting CR
 
 ## Environment Easy Installation
 
-cd H-VAE
-conda env create -f environment.yml
+1. cd H-VAE
+2. conda env create -f environment.yml
 
 ## Running
 
